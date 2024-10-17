@@ -62,7 +62,7 @@ result, unans = traceroute(target,maxttl=32)
 print(result,unans)
 ```
 ## OUTPUT
-## Ping command
+
 ## Client
 ![image](https://github.com/user-attachments/assets/dd7378ce-fca5-4b71-afde-7f2c523c4346)
 
