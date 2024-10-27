@@ -64,10 +64,10 @@ print(result,unans)
 ## OUTPUT
 
 ## Client
-![image](https://github.com/user-attachments/assets/dd7378ce-fca5-4b71-afde-7f2c523c4346)
+![image](https://github.com/user-attachments/assets/48c9e630-74ac-4800-a713-59a1f9b10c02)
 
 ## Server
-![image](https://github.com/user-attachments/assets/8a6d937e-3878-4c95-bbbc-20fd95992f15)
+![image](https://github.com/user-attachments/assets/9f56e8cd-ba77-488a-a0de-abbcc13b9050)
 
 ## Tranceroute command
 ![image](https://github.com/user-attachments/assets/80b9d842-69f1-4d15-b9a5-f3f306285515)
