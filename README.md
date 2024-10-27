@@ -70,8 +70,7 @@ print(result,unans)
 ![image](https://github.com/user-attachments/assets/8a6d937e-3878-4c95-bbbc-20fd95992f15)
 
 ## Tranceroute command
-![image](https://github.com/user-attachments/assets/44c121f5-946d-477f-8ba5-d2e9fb429600)
-
+![image](https://github.com/user-attachments/assets/80b9d842-69f1-4d15-b9a5-f3f306285515)
 
 ## Result
 Thus Execution of Network commands Performed 
